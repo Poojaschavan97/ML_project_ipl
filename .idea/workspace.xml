@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07a767d1-7732-48bc-a8b2-4fc6cc5a2983" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ipl_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Insights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Visuals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Analysis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Predictor.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Predictor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Insights.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Insights.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Poojaschavan97"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Poojaschavan97/ML_project_ipl.git",
+    "accountId": "4efb29be-fdf4-4b64-88d3-381271c9fa35"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -44,7 +50,8 @@
     "Python.MAIN_PAGE.executor": "Run",
     "Python.ipl_analysis.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/ML_project_ipl",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -53,7 +60,7 @@
       <recent name="D:\IPL-Project--master\PROJECT_FOLDER\pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Home">
+  <component name="RunManager" selected="Python.Insights">
     <configuration name="Home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROJECT_FOLDER" />
       <option name="ENV_FILES" value="" />
@@ -100,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Home" />
         <item itemvalue="Python.Insights" />
+        <item itemvalue="Python.Home" />
       </list>
     </recent_temporary>
   </component>

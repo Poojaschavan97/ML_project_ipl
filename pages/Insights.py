@@ -67,8 +67,8 @@ option = st.sidebar.radio(
 
 
 #importing data
-ipl1 = pd.read_csv('D:\IPL-Project--master\PROJECT_FOLDER\datasets\mod_deliveries.csv')
-ipl2 = pd.read_csv('D:\IPL-Project--master\PROJECT_FOLDER\datasets\mod_matches.csv')
+ipl1 = pd.read_csv('datasets/mod_deliveries.csv')
+ipl2 = pd.read_csv('datasets/mod_matches.csv')
 
 # Section 1: Basic Info
 if option == "ℹ️ Basic Info":
