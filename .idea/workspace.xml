@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07a767d1-7732-48bc-a8b2-4fc6cc5a2983" name="Changes" comment="" />
+    <list default="true" id="07a767d1-7732-48bc-a8b2-4fc6cc5a2983" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pages/ipl_analysis.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,19 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Home.executor": "Run",
-    "Python.Insights.executor": "Run",
-    "Python.MAIN_PAGE.executor": "Run",
-    "Python.Visuals.executor": "Run",
-    "Python.ipl_analysis.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/ML_project_ipl",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Home.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Insights.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MAIN_PAGE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Visuals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ipl_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ML_project_ipl&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IPL-Project--master\PROJECT_FOLDER\pages" />
@@ -151,8 +153,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Insights" />
-        <item itemvalue="Python.Visuals" />
         <item itemvalue="Python.ipl_analysis" />
+        <item itemvalue="Python.Visuals" />
         <item itemvalue="Python.Home" />
       </list>
     </recent_temporary>
