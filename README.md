@@ -26,6 +26,15 @@ Indian Premier League (IPL) is one of the most exciting T20 leagues in the world
 
 ---
 
+## 📸 **Screenshots**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Dashboard+Preview" alt="Dashboard Preview" />
+  <br>
+  <img src="https://via.placeholder.com/800x400.png?text=Team+Performance+Graph" alt="Team Performance Graph" />
+</p>
+
+---
+
 ## 🎯 **How to Run the Project**
 ```bash
 # Clone the repository
