@@ -50,6 +50,11 @@ streamlit run app.py
 
 ---
 
+---
+##🌐**My App**
+(https://mlprojectipl-jzjfv6r83b6b7skfs8juee.streamlit.app/)
+---
+
 ## 📊 **Project Statistics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pooja123&repo=ipl-analysis&theme=radical" alt="Repo Stats" />
