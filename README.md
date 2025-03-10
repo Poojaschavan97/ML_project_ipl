@@ -41,8 +41,7 @@ streamlit run Home.py
 
 ---
 
-##🌐**My App**
-(https://mlprojectipl-jzjfv6r83b6b7skfs8juee.streamlit.app/)
+##🌐[**My App**](https://mlprojectipl-jzjfv6r83b6b7skfs8juee.streamlit.app/)
 
 ---
 
