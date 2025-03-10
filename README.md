@@ -29,38 +29,27 @@ Indian Premier League (IPL) is one of the most exciting T20 leagues in the world
 ## 🎯 **How to Run the Project**
 ```bash
 # Clone the repository
-git clone https://github.com/Pooja123/ipl-analysis.git
-cd ipl-analysis
+git clone https://github.com/Poojaschavan97/ML_project_ipl.git
+cd ML_project_ipl
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the Streamlit app
-streamlit run app.py
+streamlit run Home.py
 ```
 
 ---
 
----
 ##🌐**My App**
 (https://mlprojectipl-jzjfv6r83b6b7skfs8juee.streamlit.app/)
----
-
-## 📊 **Project Statistics**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pooja123&repo=ipl-analysis&theme=radical" alt="Repo Stats" />
-</p>
 
 ---
 
-## 🤝 **Contributing**
-Contributions are welcome! If you’d like to improve this project, feel free to **fork**, make your changes, and submit a **pull request**. 
-
----
 
 ## 📫 **Contact Me**
-- 💼 [LinkedIn](https://www.linkedin.com/in/pooja123/)
-- ✉️ Email: pooja@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-b9590431a/)
+- ✉️ Email: poojachavan.0109@gmail.com 
 
 ⚡ _Let’s uncover the best IPL stats together!_ 🏏🔥  
 
